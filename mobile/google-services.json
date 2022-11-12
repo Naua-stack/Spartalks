@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610391813651",
+    "project_id": "spartalksteste",
+    "storage_bucket": "spartalksteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610391813651:android:ff5e3ceb14711c1bd3d9e6",
+        "android_client_info": {
+          "package_name": "com.naua.spartalksteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610391813651-s22kj58n9aqpc5ns6n34tbh8j6aq0vl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuNMQvlf2FCwmOAHsNYTmH_-KMu7kUP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610391813651-s22kj58n9aqpc5ns6n34tbh8j6aq0vl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
